@@ -11,18 +11,6 @@ for GPT, Sora, Claude, Gemini, anything... this prompt unlocks rage mode A colle
 - Respect the terms of service of AI platforms
 - Some prompts may not work as AI models are regularly updated
 
-## 🎥 Demonstration Video
-
-<a href="https://youtu.be/_2nnB1ZquIc" target="_blank">
-  <img src="https://img.youtube.com/vi/_2nnB1ZquIc/maxresdefault.jpg"
-       alt="WormGPT Jailbreaks video"
-       width="800" />
-</a>
-
-> Click the image to open the video on YouTube.
-
-### Article
-Article: [WormGPT Jailbreaks — ShadowHackr](https://www.shadowhackr.com/2025/10/wormgpt-jailbreaks.html)  
 
 ## 🎯 Available Prompts
 
