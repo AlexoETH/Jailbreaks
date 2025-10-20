@@ -1,22 +1,7 @@
 # 🎭 AI Model Jailbreak Prompts Collection
 
-![ShadowHacker](https://www.shadowhackr.com/wp-content/uploads/2024/01/logo.png)
-
 for GPT, Sora, Claude, Gemini, anything... this prompt unlocks rage mode A collection of powerful and advanced prompts designed to unlock the full potential of various AI language models. These prompts are intended for educational and research purposes only.
 
-## 🌟 About the Author
-
-**ShadowHacker** - Digital Security Researcher & AI Enthusiast
-
-Connect with me:
-- 🌐 [Website](https://www.shadowhackr.com)
-- 📘 [Facebook](https://www.facebook.com/Tareq.DJX)
-- 📸 [Instagram](https://www.instagram.com/shadowhackr)
-- 📺 [YouTube](https://www.youtube.com/@ShadowHacker1)
-- 🎵 [TikTok](https://www.tiktok.com/@shadowhackr)
--  [Jailbreaks GPT Gemini DeepSeek](https://www.youtube.com/watch?v=O4zF1LeTh6A)
--  [كيف تهكر الذكاء الأصطناعي | How to HACK with kimi CHATGPT 5](https://www.shadowhackr.com/2025/08/how-to-hack-with-kimi-chatgpt-5.html)
-  - -  [أقوى برومبتات لتجاوز قيود الذكاء الاصطناعي | Jailbreaks GPT Gemini DeepSeek](https://www.shadowhackr.com/2025/06/jailbreaks-gpt-gemini-deepseek.html)
 
 ## ⚠️ Important Notice
 
